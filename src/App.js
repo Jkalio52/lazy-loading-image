@@ -1,6 +1,9 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState, useEffect, useRef } from "react";
+import clsx from "clsx"; // a utility for constructing className conditionally
+import "./styles.css";
+
+
+// import './App.css';
 
 function App() {
   return (
