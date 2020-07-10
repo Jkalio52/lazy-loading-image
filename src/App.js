@@ -6,6 +6,7 @@ import "./styles.css";
 // import './App.css';
 
 
+
 function LazyImage({ className, src, alt, lqip, aspectRatio = 2 / 3 }) {
   const [loaded, setLoaded] = useState(false);
   const imgRef = useRef();
@@ -31,11 +32,12 @@ function LazyImage({ className, src, alt, lqip, aspectRatio = 2 / 3 }) {
 }
 
 
+
 function App() {
   return (
     <div className="App">
       <h3>
-        <a href="https://hangindev.com/blog/create-a-lazy-loading-image-component-with-react-hooks">
+        <a href="??https://hangindev.com/blog/create-a-lazy-loading-image-component-with-react-hooks">
           ??Create a Lazy-Loading Image Component with React Hooks
         </a>
       </h3>
