@@ -14,11 +14,12 @@
     object-fit: cover;
     object-position: center;
   }
-  
+
   .source {
     opacity: 0;
     transition: opacity 1200ms;
   }
+
   .loaded {
     opacity: 1;
   }
@@ -31,6 +32,7 @@
     color: #222222;
     background-color: #f0f4f8;
   }
+  
   *,
   *:before,
   *:after {
