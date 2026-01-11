@@ -21,12 +21,8 @@ A simple React project showcasing a **lazy-loading image component** built with 
 
 ## Demo
 
-> _Optional_: Add a link or GIF screenshot here.
->
-> For example:
->
+> No demo available yet.
 > ```
-> https://your-demo-url.com
 > ```
 
 ## Features
@@ -53,9 +49,11 @@ You can check your versions with:
 ```bash
 node -v
 npm -v
-Installation
+```
+
 Clone the repository and install dependencies:
 
+```bash
 git clone https://github.com/Jkalio52/lazy-loading-image.git
 cd lazy-loading-image
 npm install
